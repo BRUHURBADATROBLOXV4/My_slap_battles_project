@@ -1,0 +1,117 @@
+    body {
+        background-image: url(../Img/download\ \(11\).jpeg);
+        font-family: "Segeo UI, Tahoma, sans-serif";
+
+    }
+
+h1, li {
+    color: blue;
+    background-color: green;
+    text-align:center;
+    font-size: 3vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;                         
+    }
+    ol {
+        background-color: royalblue;
+    }
+    li {
+        background-color: cornflowerblue;
+    }
+  
+
+    #blue-p {
+        color: blue;
+
+    }
+
+
+    #navbar th  {
+        background-color:rgb(4, 0, 255);
+        border-style:solid;
+        border-color: cyan;
+        border-collapse: collapse;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    footer {
+        background-color: blue;
+        color: white;
+        font-size: 12px;
+        border: 3px solid red
+        padding-left 5px;
+    }
+
+
+    .stats {
+        color:purple;
+
+    }
+
+    h2 {
+        color:blue;
+
+    }
+    #id {
+        color:crimson;
+
+    }
+    
+    .navbar {
+        background-color:blue;
+        border: solid red;
+        font-size: 20px;
+        position: sticky;
+        top: 0px
+    }
+
+    header {
+        background-color:blue;
+        color:white;
+        text-align: center;
+        font-size: 50px;
+        border: 3px solid white;
+    }
+
+    .navbar th{
+        border: solid blue;
+        padding: 5px;
+    }
+
+    .profile {
+        background-color: aqua;
+        text-align: center;
+
+    }
+
+    .even-row{
+        background-color: darkcyan;
+    }
+
+    .dropdown{
+        display:inline-block;
+
+    }
+
+.dropdown-content {
+    display:none;
+    position:absolute;
+    background-color: white;
+    color:#000080;
+    padding: 10px;
+    box-shadow: 15px 15px 15px rgb(0, 0, 0);
+
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.active{
+    background-color: lightcoral;
+
+}
+
+table p {
+    color: white;
+}
